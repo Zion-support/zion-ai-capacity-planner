@@ -1,17 +1,46 @@
-# Zion AI Capacity Planner — Zion App Network
+# Zion App Network — Network Map
 
-AI capacity planning for IT infrastructure — predict resource needs, prevent bottlenecks, optimize provisioning. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
+This repository is part of the **Zion App Network** by [Zion Tech Group](https://ziontechgroup.com/).
 
-- 🔗 Live app: [https://ziontechgroup.com/zion-ai-capacity-planner/](https://ziontechgroup.com/zion-ai-capacity-planner/)
-- 🏠 Category: [Cost, FinOps & Cloud](https://github.com/Zion-support/zion-network/blob/main/network/cost-finops-cloud.md)
+- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
+- 📞 Discovery call: https://ziontechgroup.com/discovery/
+- 🧰 All tools: https://ziontechgroup.com/tools/
 
-## Related apps in the network
+## All apps in the network
 
-- [Zion AI Capacity Forecaster](https://github.com/Zion-support/zion-ai-capacity-forecaster) — predictive infrastructure scaling from traffic seasonality
-- [Zion AI Cloud Cost Navigator](https://github.com/Zion-support/zion-ai-cloud-cost-navigator) — compare cloud scenarios and estimate spend
-- [Zion AI Cost Optimizer](https://github.com/Zion-support/zion-ai-cost-optimizer) — rightsizing, waste detection and savings
-- [FinOps Spend Analyzer](https://github.com/Zion-support/finops-spend-analyzer) — cloud cost breakdown and savings recommendations
-- [Cloud Cost Estimator](https://github.com/Zion-support/cloud-cost-estimator) — multi-cloud price comparison
+- [agent-sla-monitor](https://github.com/Zion-support/agent-sla-monitor) — https://ziontechgroup.com/agent-sla-monitor/
+- [accessibility-checker](https://github.com/Zion-support/accessibility-checker) — https://ziontechgroup.com/accessibility-checker/
+- [warranty-lens](https://github.com/Zion-support/warranty-lens) — https://ziontechgroup.com/warranty-lens/
+- [site-survey-planner](https://github.com/Zion-support/site-survey-planner) — https://ziontechgroup.com/site-survey-planner/
+- [depot-stock-balancer](https://github.com/Zion-support/depot-stock-balancer) — https://ziontechgroup.com/depot-stock-balancer/
+- [licitacao-radar](https://github.com/Zion-support/licitacao-radar) — https://ziontechgroup.com/licitacao-radar/
+- [ops-runbook-ai](https://github.com/Zion-support/ops-runbook-ai) — https://ziontechgroup.com/ops-runbook-ai/
+- [energy-sla-reporter](https://github.com/Zion-support/energy-sla-reporter) — https://ziontechgroup.com/energy-sla-reporter/
+- [zion-ai-spare-parts-matcher](https://github.com/Zion-support/zion-ai-spare-parts-matcher) — https://ziontechgroup.com/zion-ai-spare-parts-matcher/
+- [zion-ai-field-dispatch-optimizer](https://github.com/Zion-support/zion-ai-field-dispatch-optimizer) — https://ziontechgroup.com/zion-ai-field-dispatch-optimizer/
+- [zion-ai-ticket-triage](https://github.com/Zion-support/zion-ai-ticket-triage) — https://ziontechgroup.com/zion-ai-ticket-triage/
+- [zion-ai-rma-tracker](https://github.com/Zion-support/zion-ai-rma-tracker) — https://ziontechgroup.com/zion-ai-rma-tracker/
+- [ai-supply-chain-optimizer](https://github.com/Zion-support/ai-supply-chain-optimizer) — https://ziontechgroup.com/ai-supply-chain-optimizer/
+- [api-health-probe](https://github.com/Zion-support/api-health-probe) — https://ziontechgroup.com/api-health-probe/
+- [cloud-architect-diagram-builder](https://github.com/Zion-support/cloud-architect-diagram-builder) — https://ziontechgroup.com/cloud-architect-diagram-builder/
+- [cloud-migration-calculator](https://github.com/Zion-support/cloud-migration-calculator) — https://ziontechgroup.com/cloud-migration-calculator/
+- [cost-anomaly-detector](https://github.com/Zion-support/cost-anomaly-detector) — https://ziontechgroup.com/cost-anomaly-detector/
+- [cybersecurity-risk-assessment](https://github.com/Zion-support/cybersecurity-risk-assessment) — https://ziontechgroup.com/cybersecurity-risk-assessment/
+- [data-pipeline-doctor](https://github.com/Zion-support/data-pipeline-doctor) — https://ziontechgroup.com/data-pipeline-doctor/
+- [dns-health-checker](https://github.com/Zion-support/dns-health-checker) — https://ziontechgroup.com/dns-health-checker/
+- [incident-timeline-reconstructor](https://github.com/Zion-support/incident-timeline-reconstructor) — https://ziontechgroup.com/incident-timeline-reconstructor/
+- [it-staffing-calculator](https://github.com/Zion-support/it-staffing-calculator) — https://ziontechgroup.com/it-staffing-calculator/
+- [log-anomaly-spotter](https://github.com/Zion-support/log-anomaly-spotter) — https://ziontechgroup.com/log-anomaly-spotter/
+- [k8s-pod-security-scanner](https://github.com/Zion-support/k8s-pod-security-scanner) — https://ziontechgroup.com/k8s-pod-security-scanner/
+- [ssl-config-auditor](https://github.com/Zion-support/ssl-config-auditor) — https://ziontechgroup.com/ssl-config-auditor/
+- [tech-debt-radar](https://github.com/Zion-support/tech-debt-radar) — https://ziontechgroup.com/tech-debt-radar/
+- [website-carbon-estimator](https://github.com/Zion-support/website-carbon-estimator) — https://ziontechgroup.com/website-carbon-estimator/
+- [vendor-matrix-compare](https://github.com/Zion-support/vendor-matrix-compare) — https://ziontechgroup.com/vendor-matrix-compare/
+- [zion-ai-cab-assistant](https://github.com/Zion-support/zion-ai-cab-assistant) — https://ziontechgroup.com/zion-ai-cab-assistant/
+- [zion-ai-capacity-planner](https://github.com/Zion-support/zion-ai-capacity-planner) — https://ziontechgroup.com/zion-ai-capacity-planner/
+- [zion-ai-change-advisor](https://github.com/Zion-support/zion-ai-change-advisor) — https://ziontechgroup.com/zion-ai-change-advisor/
+- [finops-spend-analyzer](https://github.com/Zion-support/finops-spend-analyzer) — https://ziontechgroup.com/finops-spend-analyzer/
+- [managed-it-health-check](https://github.com/Zion-support/managed-it-health-check) — https://ziontechgroup.com/managed-it-health-check/
 
-## Part of the Zion App Network
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+---
+© 2026 Zion Tech Group · https://ziontechgroup.com/
